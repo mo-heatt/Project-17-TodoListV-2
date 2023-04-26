@@ -13,11 +13,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo-db" width="35" height="35">
   </p>
 <hr>
-
-<h2>📍 Access the Site <a href="https://todolist-with-mdb.herokuapp.com/">here!</a></h2>
-
-<hr>
-
 ## 🤓 Author
 
 <table>
